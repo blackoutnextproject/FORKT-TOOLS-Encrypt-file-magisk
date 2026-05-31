@@ -16,14 +16,11 @@ Simple tool for encrypting Magisk configuration files directly from Termux.
 
 📦 Installation
 
-apt update && apt upgrade -y
-apt install git python -y
+[apt update && apt upgrade -y
+apt install git python -y]
 
-git clone https://github.com/blackoutnextproject/FORKT-TOOLS-Encrypt-file-magisk.git
-cd FORKT-TOOLS-Encrypt-file-magisk
-
-bash req.sh
-python3 kt.py
+[git clone https://github.com/blackoutnextproject/FORKT-TOOLS-Encrypt-file-magisk.git && cd FORKT-TOOLS-Encrypt-file-magisk]
+[bash req.sh && python3 kt.py]
 
 ---
 
